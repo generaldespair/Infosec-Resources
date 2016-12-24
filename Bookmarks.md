@@ -6,3 +6,9 @@
 * [PTES Technical Guidelines](http://www.pentest-standard.org/index.php/PTES_Technical_Guidelines)
 
 * [Penetration Testing Framework](http://www.vulnerabilityassessment.co.uk/Penetration%20Test.html)
+
+# Vulnerabilities
+
+[SecurityFocus](http://www.securityfocus.com/vulnerabilities)
+
+[Expoit Database](https://www.exploit-db.com/)
