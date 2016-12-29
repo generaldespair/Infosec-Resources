@@ -73,3 +73,7 @@
 # Forums
 
 [Reddit - /r/HowToHack](https://www.reddit.com/r/HowToHack/)
+
+# Malware
+
+[theZoo aka Malware DB](http://thezoo.morirt.com/)
