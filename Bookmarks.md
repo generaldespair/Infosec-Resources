@@ -42,6 +42,10 @@
 [HackThis!](https://www.hackthis.co.uk/)
 * Want to learn about hacking and network security? Discover how hacks, dumps and defacements are performed and secure your website against hackers with HackThis!!
 
+# Vulnerable ISOs/Apps
+
+[PentesterLab](https://pentesterlab.com/exercises/)
+
 
 
 # News
@@ -70,6 +74,10 @@
 
 [80+ Best Free Hacking Tutorials](http://www.fromdev.com/2013/07/Hacking-Tutorials.html)
 
+[Hacksplaining](https://www.hacksplaining.com/)
+
+[Penetration Testing Practice Labs](http://www.amanhardikar.com/mindmaps/Practice.html)
+
 # Forums
 
 [Reddit - /r/HowToHack](https://www.reddit.com/r/HowToHack/)
@@ -77,3 +85,9 @@
 # Malware
 
 [theZoo aka Malware DB](http://thezoo.morirt.com/)
+
+# Bug Bounty
+
+https://forum.bugcrowd.com/t/researcher-resources-how-to-become-a-bug-bounty-hunter/1102
+
+[jhaddix - Bug Hunter's Methodology](https://github.com/jhaddix/tbhm)
