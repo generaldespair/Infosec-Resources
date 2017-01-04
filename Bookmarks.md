@@ -1,3 +1,10 @@
+# Bookmarks
+
+[Awesome Infosec](https://github.com/onlurking/awesome-infosec#related-awesome-lists)
+
+[Awesome Pentest](https://github.com/enaqx/awesome-pentest)
+
+
 # Methodologies
 
 * [OWASP Penetration Testing Methodologies](https://www.owasp.org/index.php/Penetration_testing_methodologies)
